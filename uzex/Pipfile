@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+aiogram = "~=2.17"
+requests = "~=2.26"
+emoji-country-flag = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
