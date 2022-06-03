@@ -8,7 +8,7 @@ help = KeyboardButton("Bot haqida")
 
 keybutton1 = ReplyKeyboardMarkup(resize_keyboard=True).add(ask).add(help)
 
-API_TOKEN = '5031228252:AAH_RsLDM7JKwjXwCArbDAUUqZXptJgsQbY'
+API_TOKEN = '*'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
